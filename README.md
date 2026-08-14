@@ -47,5 +47,4 @@ QA-Chat-Bot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ashritha123456/QA-Chat-Bot.git
-cd QA-Chat-Bot
+
